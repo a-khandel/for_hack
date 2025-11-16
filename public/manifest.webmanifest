@@ -1,7 +1,7 @@
 {
   "name": "WebSpatial Whiteboard",
   "short_name": "Whiteboard",
-  "id": "com.webspatial.whiteboard",
+  "id": "/",
   "start_url": "/",
   "display": "standalone",
   "xr_main_scene": {
